@@ -1,0 +1,25 @@
+/**/
+.display{
+    margin-top: 20px;
+    height: 80px;
+    font-size: 65px;
+}
+ 
+.lin{
+    margin-top: 5px;
+}
+
+.lin button{
+    font-size: 45px;
+}
+
+ .container{mangin-top:5px;
+    padding-top: 10px;
+
+}
+
+.input{
+    background-color: blueviolet;
+    font-style: italic;
+    
+}
